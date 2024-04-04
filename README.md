@@ -40,6 +40,11 @@ User Interface: Provides a user-friendly interface with login, signup, add passw
 
 Implement multifactor authentication.
 Implement password updating functionality.
+
+sample ui page
+<img width="1508" alt="image" src="https://github.com/vvenkat15-git/python-password-manager/assets/72157165/3047dec1-6a51-47b3-9a83-0a518ef96338">
+
+
 Contributions
 
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
